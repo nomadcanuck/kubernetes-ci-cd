@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenzanlabs/kubernetes-ci-cd.git"
+    "url": "git+https://github.com/nomadcanuck/kubernetes-ci-cd.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kenzanlabs/kubernetes-ci-cd/issues"
+    "url": "https://github.com/nomadcanuck/kubernetes-ci-cd/issues"
   },
-  "homepage": "https://github.com/kenzanlabs/kubernetes-ci-cd#readme"
+  "homepage": "https://github.com/nomadcanuck/kubernetes-ci-cd#readme"
 }
