@@ -4,6 +4,7 @@
   "description": "## Get started Requirements * nodejs * kubectl * virtualbox * minikube * At least 4GB of available memory, 8GB for part 5",
   "main": "start.js",
   "dependencies": {
+    "semver": "^5.1.0",
     "cmdify": "^0.0.4",
     "colors": "^1.1.2",
     "fetch-retry": "^1.1.0",
